@@ -9,7 +9,7 @@ KibaBot New 是基于 [HoshinoBotV2](https://github.com/Ice-Cirno/HoshinoBot) �
 
 maimaiDX 项目地址：https://github.com/Yuri-YuzuChaN/maimaiDX
 Kiba 旧框架项目：https://github.com/Kira-Killua/Kiba-Old-
-Kiba 新框架：https://github.com/Kira-Killua/KibaBot-New
+Kiba 新框架：https://github.com/Kira-Killua/Kiba-New
 
 
 ## 使用方法
@@ -17,7 +17,7 @@ Kiba 新框架：https://github.com/Kira-Killua/KibaBot-New
 1. 将该项目放在HoshinoBot插件目录 `modules` 下，或者clone本项目
    
     ``` git
-    git clone https://github.com/Kira-Killua/KibaBot-New
+    git clone https://github.com/Kira-Killua/Kiba-New
     ```
     
 2. 下载静态资源文件，将该压缩文件解压后，将 `static` 文件夹复制到插件根目录并覆盖，即 `maimaiDX/static` 并覆盖，[下载链接](https://share.yuzuchan.moe/d/aria/Resource.zip?sign=LOqwqDVm95dYnkEDYKX2E-VGj0xc_JxrsFnuR1BcvtI=:0)
