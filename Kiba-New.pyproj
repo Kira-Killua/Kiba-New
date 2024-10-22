@@ -1586,6 +1586,7 @@
     <Content Include="static\mai\plate\雪舞舞.png" />
     <Content Include="static\mai\plate\霸者.png" />
     <Content Include="static\meiryo.ttc" />
+    <Content Include="static\README.md" />
     <Content Include="static\SourceHanSansSC-Bold.otf" />
     <Content Include="static\temp_pie.html" />
     <Content Include="static\Torus Regular.otf" />

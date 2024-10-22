@@ -1,5 +1,7 @@
 # 欢迎使用KibaBot New(Kiba V4)!
 
+<img src="https://img.shields.io/github/license/Blitz-Raynor/Kiba" alt="license">
+
 本项目基于 Yuri-YuzuChaN 的 maimaiDX 项目。特此表示感谢。
 
 maimaiDX 项目移植自 xybot 及 [mai-bot](https://github.com/Diving-Fish/mai-bot) 开源项目。
@@ -8,7 +10,9 @@ KibaBot New 是基于 [HoshinoBotV2](https://github.com/Ice-Cirno/HoshinoBot) �
 当前正在运营的 KibaBot 使用了特殊精简的 HoshinoBotV2 框架。但此项目可以正常在标准的 HoshinoBotV2 框架上运行。
 
 maimaiDX 项目地址：https://github.com/Yuri-YuzuChaN/maimaiDX
+
 Kiba 旧框架项目：https://github.com/Kira-Killua/Kiba-Old-
+
 Kiba 新框架：https://github.com/Kira-Killua/Kiba-New
 
 
