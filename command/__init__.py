@@ -5,3 +5,4 @@ from .mai_score import *
 from .mai_search import *
 from .mai_table import *
 from .kiba_things import *
+from .kiba_gpt import *

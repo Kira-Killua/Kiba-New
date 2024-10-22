@@ -12,6 +12,7 @@
     <OutputPath>.</OutputPath>
     <Name>Kiba-New</Name>
     <RootNamespace>Kiba-New</RootNamespace>
+    <InterpreterId>Global|VisualStudio|Python-3.9.4</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -1589,6 +1590,9 @@
     <Content Include="static\temp_pie.html" />
     <Content Include="static\Torus Regular.otf" />
     <Content Include="static\Torus SemiBold.otf" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|VisualStudio|Python-3.9.4" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

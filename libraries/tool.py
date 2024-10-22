@@ -1,5 +1,6 @@
 import json
 import time
+import random
 from pathlib import Path
 from typing import Any, Union
 
@@ -22,3 +23,6 @@ async def writefile(file: Path, data: Any) -> bool:
     async with aiofiles.open(file, 'w', encoding='utf-8') as f:
         await f.write(json.dumps(data, ensure_ascii=False, indent=4))
     return True
+
+def random_uniform(a: int, b: int) -> float:
+    return a + (b - a) * random.random()
