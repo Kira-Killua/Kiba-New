@@ -1,6 +1,6 @@
 # 欢迎使用KibaBot New(Kiba V4)!
 
-<img src="https://img.shields.io/github/license/Blitz-Raynor/Kiba" alt="license">
+<img src="https://img.shields.io/github/license/Kira-Killua/Kiba-New" alt="license">
 
 本项目基于 Yuri-YuzuChaN 的 maimaiDX 项目。特此表示感谢。
 
