@@ -80,10 +80,9 @@ Kiba 新框架：https://github.com/Kira-Killua/Kiba-New
 ## 更新说明
 
 **KibaBot New 4.1 (Kiba 4.1)**
-1.修复 Bug
-2.更细致的 Best 50 页面
-3.更细致的歌曲详情页
-
+1. 本次更新包含 Bug 修复：包括素材缺失、图片资源错位。
+2. 重新配置的 Best 50 页面，以便于未来加入新功能，如最高、低分数显示；歌曲平均Rating等。
+3. 微调歌曲详情。
 
 **KibaBot New (Kiba 4.0)**
 1. 框架更换至HoshinoBot。
